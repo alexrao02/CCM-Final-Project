@@ -1,5 +1,8 @@
 This is the curriculum design of my cloud computing course.
 
+My job:
+Define the direction of the project; Do the scraping job; Draw the flow charts and schematic diagrams in the report; Map word clouds; Organize report writing.
+
 -----------------------------------------------------------------------------------------------------
 PIG CODE
 
